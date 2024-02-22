@@ -21,4 +21,4 @@ Discovering new things everyday.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abayomi185)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Yomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abayomi185&count_private=true&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abayomi185&count_private=true&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
